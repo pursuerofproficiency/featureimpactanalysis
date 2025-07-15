@@ -1,0 +1,11 @@
+T-test Results:
+T-statistic: nan
+P-value: nan
+
+Average Revenue Before:
+used_feature
+True    19.656315
+
+Average Revenue After:
+used_feature
+True    22.578619
